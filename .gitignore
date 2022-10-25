@@ -1,7 +1,8 @@
+node_modules
 .hintrc
 .gitignore
 MIT.md
 test.md
 package-lock.json
 .github/
-node_modules/
+.stylelintrc.json
