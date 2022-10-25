@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/houdamzari/Hello-World/issues"
   },
-  "homepage": "https://github.com/houdamzari/Hello-World#readme"
+  "homepage": "https://github.com/houdamzari/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
