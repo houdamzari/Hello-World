@@ -1,6 +1,4 @@
 # .gitignore
 node_modules/
 .hintrc
-test.md
-package-lock.json
-MIT.md
+.test.md
