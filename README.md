@@ -25,4 +25,4 @@ Clone the repositary localy using the command ' git clone '
 
 - -- GitHub: [@houdamzari](https://github.com/houdamzari)
 
-  -- LinkedIn: [LinkedIn](https://www.linkedin.com/in/houda-mzari-2304401b1/)
+  -- LinkedIn: [@houdamzari](https://www.linkedin.com/in/houda-mzari-2304401b1/)
