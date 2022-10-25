@@ -2,7 +2,7 @@
 
 # Hello World
 
-> Description the project.
+> A project using HTML and CSS.
 
 ## Built With
 
