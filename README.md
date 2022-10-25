@@ -4,17 +4,14 @@
 
 > Description the project.
 
-
 ## Built With
 
 - HTML
 - CSS
 
-
 ## Getting Started
 
 Open the file named index.html in your browser to see the project.
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -22,3 +19,10 @@ To get a local copy up and running follow these simple example steps.
 
 Clone the repositary localy using the command ' git clone '
 
+## Authors
+
+- -👤 **Houda MZARI**
+
+- -- GitHub: [@houdamzari](https://github.com/houdamzari)
+
+  -- LinkedIn: [LinkedIn](https://www.linkedin.com/in/houda-mzari-2304401b1/)
